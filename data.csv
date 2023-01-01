@@ -1,8 +1,11 @@
-,Atraxa,Vampire,Scrap,Mutate,Portal,Kalamax,Arcane
-Atraxa,x,mee,me,e,,,
-Vampire,em,x,,eeemm,,em,
-Scrap,m,,x,eee,,e,
-Mutate,e,,,x,,e,m
-Portal,e,,,,x,,
-Kalamax,m,,e,e,e,x,
-Arcane,,,,ee,,,x
+,Atraxa,Vampire,Scrap,Mutate,Portal,Kalamax,Arcane,Flayarrs,Dragons,Buckle up
+Atraxa,x,mee,me,e,,,m,,e,e
+Vampire,em,x,,eeemm,,emm,,e,,em
+Scrap,m,,x,eee,,e,,,,
+Mutate,e,,,x,,e,m,,,
+Portal,e,e,,,x,,,,e,
+Kalamax,m,,e,e,e,x,,,,
+Arcane,e,,,ee,,me,x,e,e,
+Flayarrs,,,,,,e,,x,m,e
+Dragons,m,,,,,e,,,x,ee
+Buckle up,,ee,,,,e,,em,,x
